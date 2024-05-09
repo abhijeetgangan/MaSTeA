@@ -1,0 +1,6 @@
+transformers
+accelerate
+packaging
+wheel
+openpyxl
+anthropic
