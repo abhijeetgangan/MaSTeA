@@ -3,7 +3,7 @@
 
 ## Dataset
 
-This repository contains a dataset of materials science questions spanning various categories like characterization, applications, properties, and behavior. The dataset includes numerical and multiple-choice questions to evaluate the performance of large language models on complex materials science questions.
+This repository contains a dataset of materials science questions spanning various categories such as characterization, applications, properties, and behavior. The dataset includes numerical and multiple-choice questions to evaluate the performance of large language models on complex materials science questions.
 
 The question dataset comes from this publication:
 
