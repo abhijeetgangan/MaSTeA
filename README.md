@@ -12,7 +12,7 @@ The dataset is available in all_QA.xlsx. Each category contains files with quest
 
 ## LLM Benchmarks
 
-We have benchmarked several open-source and commercial LLMs on this dataset. The benchmarking process is automated, and the evaluation scripts are available in the `evaluation/` directory.
+We have benchmarked several open-source and commercial LLMs on this dataset. The evaluation process is automated.
 
 ## Web App: MaSTeA (Materials Science Teaching Assistant)
 
