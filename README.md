@@ -8,7 +8,7 @@ This repository contains a dataset of materials science questions spanning vario
 The question dataset comes from this publication:
 
 Zaki, M., & Krishnan, N. A. (2024). MaScQA: investigating materials science knowledge of large language models. Digital Discovery, 3(2), 313-327.
-The dataset is available in all_QA.xlsx. Each category contains files with questions, ground truth different models' answers.
+The dataset is available in all_QA.xlsx. Each category contains files with questions, ground truth and different models' answers.
 
 ## LLM Benchmarks
 
